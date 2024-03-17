@@ -1,2 +1,2 @@
 # hello-world
-To get familiar with Github
+Learn R programming and record the progress
